@@ -1,0 +1,15 @@
+@tailwind base;
+
+@tailwind components;
+
+html {
+  background-color: green;
+}
+
+/*! I_need_this_comment */
+
+body {
+  background-color: red;
+}
+
+@tailwind utilities;
